@@ -1,0 +1,2 @@
+# Omnomarchy
+A Omarchy alternative
